@@ -1,0 +1,36 @@
+item_id,item_name,category,price,cost,is_spicy,launched_date
+1,Brisket Street Tacos,Entree,11.49,3.95,False,2019-03-15
+2,Blackened Fish Tacos,Entree,11.99,4.1,True,2019-03-15
+3,Chicken Fajita Tacos,Entree,10.49,3.2,False,2019-03-15
+4,Crawfish Etouffee,Entree,14.99,5.4,True,2019-03-15
+5,Shrimp & Andouille Gumbo,Entree,13.49,4.6,True,2019-03-15
+6,Chicken & Sausage Jambalaya,Entree,$12.99,3.9,True,2019-03-15
+7,Cajun Chicken Burrito,Entree,11.99,3.7,True,2020-02-01
+8,Carne Asada Burrito,Entree,12.49,4.3,False,2019-03-15
+9,Brisket Enchiladas,Entree,13.99,4.8,False,2021-06-01
+10,Cheese Enchiladas,Entree,10.99,2.9,False,2019-03-15
+11,Fried Shrimp Po' Boy,Entree,13.49,4.7,False,2019-03-15
+12,Crawfish Boil Platter,Entree,18.99,7.2,True,2022-03-01
+13,Red Beans & Rice Bowl,Entree,9.99,2.4,False,2019-03-15
+14,Queso Fundido Nachos,Entree,10.49,3.1,False,2020-09-15
+15,Chicken Tinga Quesadilla,Entree,10.99,3.3,True,2021-01-10
+16,Veggie Fajita Bowl,Entree,10.49,2.8,False,2023-01-09
+17,Boudin Quesadilla,Entree,12.49,3.8,True,2026-05-01
+18,Chips & Queso,Side,5.49,1.2,False,2019-03-15
+19,Chips & Salsa,Side,3.99,0.7,False,2019-03-15
+20,Mexican Street Corn,Side,4.49,1.1,True,2020-05-01
+21,Cajun Fries,Side,$3.99,0.8,True,2019-03-15
+22,Hushpuppies,Side,4.49,0.9,False,2019-03-15
+23,Dirty Rice,Side,3.99,0.9,True,2019-03-15
+24,Charro Beans,Side,3.49,0.6,False,2019-03-15
+25,Boudin Balls,Side,6.49,1.8,True,2021-10-01
+26,Fountain Drink,Drink,2.49,0.3,False,2019-03-15
+27,Sweet Tea,Drink,2.49,0.25,False,2019-03-15
+28,Horchata,Drink,3.49,0.6,False,2019-03-15
+29,Agua Fresca,Drink,3.49,0.6,False,2020-05-01
+30,Mexican Coke,Drink,3.29,1.0,False,2019-03-15
+31,Abita Root Beer,Drink,3.49,1.1,False,2019-03-15
+32,Beignets,Dessert,4.99,0.9,False,2019-03-15
+33,Tres Leches Cake,Dessert,$5.49,1.3,False,2019-03-15
+34,Churros,Dessert,4.49,0.8,False,2019-03-15
+35,Pecan Praline,Dessert,2.99,0.6,False,2020-11-01

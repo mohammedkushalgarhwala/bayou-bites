@@ -1,0 +1,21 @@
+location_id,name,city,region,open_date,seats,has_drive_thru,manager_name
+1,Bayou Bites Montrose,Houston,Houston,2019-03-15,90,False,Renee Boudreaux
+2,Bayou Bites The Heights,Houston,Houston,2019-09-01,110,False,Marcus Villarreal
+3,Bayou Bites Midtown,houston,Houston,2020-06-20,80,False,Tasha Nguyen
+4,Bayou Bites Galleria,Houston,Houston,2021-02-10,120,True,Luis Carrillo
+5,Bayou Bites Clear Lake, Houston ,Houston,2022-05-05,100,True,Amber Thibodeaux
+6,Bayou Bites Sugar Land,Sugar Land,Houston,2023-08-12,95,True,Kevin Patel
+7,Bayou Bites Deep Ellum,Dallas,Dallas,2020-01-18,85,False,Jasmine Ortiz
+8,Bayou Bites Uptown,Dallas,Dallas,2020-11-07,100,False,Derek Landry
+9,Bayou Bites Lakewood,Dallas,Dallas,2021-07-24,90,True,Brian Holloway
+10,Bayou Bites Plano,Plano,Dallas,2022-03-19,115,True,Sofia Ramirez
+11,Bayou Bites Frisco,Frisco,Dallas,2024-04-06,105,True,Tyler Guidry
+12,Bayou Bites South Congress,Austin,Austin,2019-12-01,75,False,Maya Hernandez
+13,Bayou Bites East Austin,Austin,Austin,2021-04-17,70,False,Jordan Fontenot
+14,Bayou Bites The Domain,Austin,Austin,2022-10-22,110,True,Priya Shah
+15,Bayou Bites Round Rock,Round Rock,Austin,2024-01-13,100,True,Carlos Mendoza
+16,Bayou Bites Riverwalk,San Antonio,San Antonio,2020-02-29,95,False,Elena Garza
+17,Bayou Bites Pearl District,SAN ANTONIO ,San Antonio,2021-09-11,85,False,Nathan Broussard
+18,Bayou Bites Alamo Heights,San Antonio,San Antonio,2022-08-27,90,True,Gabriela Trevino
+19,Bayou Bites Stone Oak,San Antonio,San Antonio,2023-05-20,105,True,Ryan Mouton
+20,Bayou Bites Katy,Katy,Houston,2026-04-01,120,True,Dana LeBlanc

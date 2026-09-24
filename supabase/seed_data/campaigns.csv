@@ -1,0 +1,7 @@
+campaign_id,campaign_name,promo_code,channel,start_date,end_date,budget,target_locations,days_of_week,offer
+1,"New Year, New Bites",NEWYEAR10,email,2026-01-02,2026-01-31,4000,ALL,,10% off entire order
+2,Mardi Gras Gumbo Week,MARDIGRAS,social,2026-02-10,2026-02-17,3000,ALL,,$3 off Shrimp & Andouille Gumbo
+3,Taco Tuesday BOGO,TACOBOGO,social,2026-03-01,2026-03-31,12000,ALL,Tue,"Buy one taco plate, get one free"
+4,Crawfish Fridays,CRAWFRI,sms,2026-04-03,2026-05-29,9000,"1,2,3,4,5,6,20",Fri,$5 off any crawfish entree
+5,Boudin Quesadilla Launch,BOUDIN20,email,2026-05-01,2026-05-31,5000,ALL,,20% off the new Boudin Quesadilla
+6,Summer Delivery Days,DELIVER15,sms,2026-06-01,2026-06-30,6000,ALL,,15% off delivery orders

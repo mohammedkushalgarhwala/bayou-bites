@@ -1,0 +1,30 @@
+# secrets: never commit
+.env
+.env.*
+!.env.example
+*.pem
+.databrickscfg
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# databricks / spark local artifacts
+.databricks/
+spark-warehouse/
+metastore_db/
+derby.log
+
+# editors / OS
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+claude.md
+readme.md
+requirements.txt
